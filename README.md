@@ -8,6 +8,11 @@ This project implements a fixed, interactive navigation menu using HTML, CSS, an
 - Hover effects for menu items
 - Responsive and accessible design
 
+## 🚀 Live Demo
+You can view the project live here:  
+[🔗 View on GitHub Pages](https://harshloya24.github.io/PRODIGY_WD_01/)
+
+
 ## How to Run
 1. Open `index.html` in your browser.
 2. Scroll the page or hover over menu items to see the interactive effects.
@@ -27,3 +32,4 @@ Name your GitHub repository as `PRODIGY_WD_02` for this task.
 
 **Post-Completion:**
 After finishing, create a LinkedIn post outlining your work and knowledge gained.
+
